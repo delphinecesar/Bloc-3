@@ -1,5 +1,5 @@
 # Bloc 3: Machine Learning
 
 ## Certification information
-* Email adress: delphinecesar@gmail.com
+* Email address: delphinecesar@gmail.com
 * Video presentation:
