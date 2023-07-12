@@ -1,4 +1,4 @@
-# Bloc 3: Walmart : predict weekly sales
+# Bloc 3: Walmart - predict weekly sales
 
 ## Company's Description 📇
 
